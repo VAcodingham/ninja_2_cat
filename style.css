@@ -1,11 +1,12 @@
 img {
     padding: 5px;
     display: block;
+    align-items: center;
     
 }
 .img {
-    margin-left: 700px;
-    margin-right: 500px;
+    margin-left: 860px;
+    margin-right: 860px;
     margin-top: 200px;
 }
 
